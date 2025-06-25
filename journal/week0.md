@@ -2,6 +2,11 @@
 
 ## Getting the AWS CLI Working
 
+
+
+![image](https://github.com/user-attachments/assets/df3e195e-9303-4dc5-aea7-5e0dd7c64cc4)
+
+
 We'll be using the AWS CLI often in this bootcamp,
 so we'll proceed to installing this account.
 
