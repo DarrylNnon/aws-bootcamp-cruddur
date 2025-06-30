@@ -296,3 +296,20 @@ volumes:
   db:
     driver: local
 ```
+
+
+## TOP 10 Docker Container Security Best Practices
+
+- What is Container Security?
+Container security is the practice of protecting my applications hosted on compute services like containers.
+
+Common examples of applications can be single Page Applications (SPAs), Microservices, API etc..
+
+- Why Container Security requires practice?
+    * Complexity with containers
+    * Relying on CSPs for features
+    * UnManaged requires a lot more hours of work then managed but would require you keeping update
+ 
+ # TOP 10 BEST PRACTICES:
+
+  ![image](https://github.com/user-attachments/assets/8c1fde76-6138-4781-99bb-59337d9f4953)
