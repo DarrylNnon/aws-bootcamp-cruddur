@@ -313,3 +313,8 @@ Common examples of applications can be single Page Applications (SPAs), Microser
  # TOP 10 BEST PRACTICES:
 
   ![image](https://github.com/user-attachments/assets/8c1fde76-6138-4781-99bb-59337d9f4953)
+
+- SNYK FOR SCAN VULNERAIBILITY.
+  https://app.snyk.io/org/darrylnnon/reports
+
+  ![image](https://github.com/user-attachments/assets/ee5548e6-d747-4dc9-a4ea-053feb7ae7db)
