@@ -159,13 +159,13 @@ components:
           example: 0056a369-4618-43a4-ad88-e7c371bf5582
         display_name:
           type: string
-          example: "Andrew Brown"
+          example: "Darryl Francklin"
         handle:
           type: string
-          example: "andrewbrown"
+          example: "darrylfrancklin"
         message:
           type: string
-          example: "Who likes pineapple on their pizza?"
+          example: "Who likes watermelon on their juice?"
         replies_count:
           type: integer
           example: 5
