@@ -4,6 +4,7 @@
 
 ### Instrument AWS X-Ray for Flask
 
+ba92jLyuwKGIBfaHYn9oxD
 
 ```sh
 export AWS_REGION="ca-central-1"
@@ -167,9 +168,9 @@ OTEL_SERVICE_NAME: "${HONEYCOMB_SERVICE_NAME}"
 You'll need to grab the API key from your honeycomb account:
 
 ```sh
-export HONEYCOMB_API_KEY=""
+export HONEYCOMB_API_KEY="ba92jLyuwKGIBfaHYn9oxD"
 export HONEYCOMB_SERVICE_NAME="Cruddur"
-gp env HONEYCOMB_API_KEY=""
+gp env HONEYCOMB_API_KEY="a92jLyuwKGIBfaHYn9oxD"
 gp env HONEYCOMB_SERVICE_NAME="Cruddur"
 ```
 
